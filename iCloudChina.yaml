@@ -1,0 +1,5 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：2
+payload:
+  - DOMAIN-SUFFIX,icloud.com.cn # 中国大陆的 iCloud 服务
+  - DOMAIN-SUFFIX,apzones.com # 中国大陆的 iCloud 服务

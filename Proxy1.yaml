@@ -1,0 +1,7 @@
+# Proxy
+payload:
+  - DOMAIN-SUFFIX,jinglongyu.com
+  - DOMAIN-SUFFIX,ctc.run
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,tabbybots.cn
+  

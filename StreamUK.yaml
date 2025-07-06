@@ -1,0 +1,25 @@
+#UK Stream 
+payload:
+ - DOMAIN-SUFFIX,amazon.co.uk
+ - DOMAIN-SUFFIX,britbox.com
+ - DOMAIN-SUFFIX,itv.com
+ - DOMAIN-SUFFIX,co.uk
+ - DOMAIN-SUFFIX,bfi.org.uk
+ - DOMAIN-SUFFIX,bbc.co
+ - DOMAIN-SUFFIX,bbc.com
+ - DOMAIN-KEYWORD,bbcfmt
+ - DOMAIN-KEYWORD,uk-live
+ - DOMAIN,aod-dash-uk-live.akamaized.net
+ - DOMAIN,aod-hls-uk-live.akamaized.net
+ - DOMAIN,vod-dash-uk-live.akamaized.net
+ - DOMAIN,vod-thumb-uk-live.akamaized.net
+ - DOMAIN-SUFFIX,bbc.co
+ - DOMAIN-SUFFIX,bbc.co.uk
+ - DOMAIN-SUFFIX,bbc.com
+ - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+ - DOMAIN-SUFFIX,bbci.co
+ - DOMAIN-SUFFIX,bbci.co.uk
+ - DOMAIN-KEYWORD,whatsapp
+ - DOMAIN-KEYWORD,uk-live
+ 
+ 

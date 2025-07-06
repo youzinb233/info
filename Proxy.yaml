@@ -1,0 +1,6 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：3
+payload:
+  - DOMAIN,relay.firefox.com
+  - DOMAIN-SUFFIX,ibm.com
+  - DOMAIN-SUFFIX,plex.tv

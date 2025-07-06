@@ -1,0 +1,12 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：9
+payload:
+  - DOMAIN,um01.cn.eset.com
+  - DOMAIN,edf.eset.com
+  - DOMAIN,h1-weblb01-v.eset.com
+  - DOMAIN,h3-weblb01-v.eset.com
+  - DOMAIN,iploc.eset.com
+  - DOMAIN,pico.eset.com
+  - DOMAIN,pki.eset.com
+  - DOMAIN,register.eset.com
+  - DOMAIN,versioncheck.eset.com

@@ -1,0 +1,7 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：4
+payload:
+  - DOMAIN,account.apple.com # “设置”和“系统偏好设置”中的 Apple 账户认证
+  - DOMAIN,gsa.apple.com # Apple 账户认证
+  - DOMAIN,idmsa.apple.com # Apple 账户认证
+  - DOMAIN,appleid.cdn-apple.com # “设置”和“系统偏好设置”中的 Apple 账户认证
