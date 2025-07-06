@@ -1,0 +1,16 @@
+#EMBY常见走代理
+payload:
+ - DOMAIN-SUFFIX,fanart.tv
+ - DOMAIN-SUFFIX,tmdb.org
+ - DOMAIN-SUFFIX,themoviedb.org
+ - DOMAIN-SUFFIX,omdb.com
+ - DOMAIN-SUFFIX,embydata.com
+ - DOMAIN-SUFFIX,thetvdb.com
+ - DOMAIN-SUFFIX,githubusercontent.com
+ - DOMAIN-SUFFIX,github.com
+ - DOMAIN-SUFFIX,github.io
+ - DOMAIN-SUFFIX,experience-check.com
+ - DOMAIN-SUFFIX,gitlab.com
+ - DOMAIN-SUFFIX,mb3admin.com
+ - DOMAIN-SUFFIX,trakt.tv
+ - DOMAIN-SUFFIX,anidb.net
