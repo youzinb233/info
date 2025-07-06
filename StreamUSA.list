@@ -1,0 +1,27 @@
+#USA Stream 
+
+ - DOMAIN-SUFFIX,espn.com
+ - DOMAIN-SUFFIX,paramountplus.com
+ - DOMAIN-SUFFIX,cinemax.com
+ - DOMAIN-SUFFIX,starz.com
+ - DOMAIN-SUFFIX,fubo.tv
+ - DOMAIN-SUFFIX,max.com
+ - DOMAIN-SUFFIX,discomax.com
+ - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+ - DOMAIN-SUFFIX,hbo.com
+ - DOMAIN-SUFFIX,hbogo.com
+ - DOMAIN-SUFFIX,hbomax.com
+ - DOMAIN-SUFFIX,hbonow.com
+ - DOMAIN-SUFFIX,criterionchannel.com
+ - DOMAIN-SUFFIX,fox.com
+ - DOMAIN-SUFFIX,foxdcg.com
+ - DOMAIN-SUFFIX,theplatform.com
+ - DOMAIN-SUFFIX,uplynk.com
+ - DOMAIN-SUFFIX,hulu.com
+ - DOMAIN-SUFFIX,huluim.com
+ - DOMAIN-SUFFIX,hulustream.com
+ - DOMAIN-SUFFIX,ttvnw.net
+ - DOMAIN-SUFFIX,twitch.tv
+ - DOMAIN-SUFFIX,twitchcdn.net
+ - DOMAIN,v.odysseyplus.site
+ - DOMAIN,us.odysseyplus.site

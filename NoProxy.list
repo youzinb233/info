@@ -1,0 +1,18 @@
+# NoProxy
+
+ DOMAIN-SUFFIX,broadcasthe.net
+ DOMAIN-SUFFIX,test-ipv6.com
+ DOMAIN-SUFFIX,xvvrkb.lol
+ DOMAIN-SUFFIX,store.sub
+ DOMAIN-SUFFIX,mkrviu.sbs
+ DOMAIN-SUFFIX,ipip.net
+ DOMAIN-SUFFIX,ipv6-test.com
+ DOMAIN-SUFFIX,emby.vip
+ DOMAIN-SUFFIX,sfcat.link
+ DOMAIN-SUFFIX,ident.me
+ DOMAIN-SUFFIX,ipw.cn
+ DOMAIN,us.odysseyplus.site
+ DOMAIN,lfy.odysseyplus.site
+ DOMAIN,hduprc.sbs
+ PROCESS-NAME,ddns-go.exe
+  

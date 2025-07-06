@@ -1,0 +1,21 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：18
+
+ DOMAIN,appldnld.apple.com # iOS、iPadOS 和 watchOS 更新
+ DOMAIN,configuration.apple.com # Rosetta 2 更新
+ DOMAIN,gdmf.apple.com # 软件更新目录
+ DOMAIN,gg.apple.com # iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
+ DOMAIN,gs.apple.com # iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
+ DOMAIN,ig.apple.com # macOS 更新
+ DOMAIN,ns.itunes.apple.com
+ DOMAIN,mesu.apple.com # 托管软件更新目录
+ DOMAIN,oscdn.apple.com # macOS 恢复
+ DOMAIN,osrecovery.apple.com # macOS 恢复
+ DOMAIN,skl.apple.com # macOS 更新
+ DOMAIN,swcdn.apple.com # macOS 更新
+ DOMAIN,swdist.apple.com # macOS 更新
+ DOMAIN,swdownload.apple.com # macOS 更新
+ DOMAIN,swscan.apple.com # macOS 更新
+ DOMAIN,xp.apple.com
+ DOMAIN,updates.cdn-apple.com # 软件更新下载
+ DOMAIN,updates-http.cdn-apple.com # 软件更新下载

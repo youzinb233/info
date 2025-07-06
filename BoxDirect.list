@@ -1,0 +1,12 @@
+# BoxDirect
+
+ DOMAIN-SUFFIX,test-ipv6.com
+ DOMAIN-SUFFIX,xvvrkb.lol
+ DOMAIN-SUFFIX,store.sub
+ DOMAIN-SUFFIX,mkrviu.sbs
+ DOMAIN-SUFFIX,ipip.net
+ DOMAIN-SUFFIX,ipv6-test.com
+ DOMAIN-SUFFIX,emby.vip
+ DOMAIN-SUFFIX,sfcat.link
+ IP-CIDR,89.58.0.0/16
+  

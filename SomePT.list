@@ -1,0 +1,8 @@
+#PT走代理
+
+ - DOMAIN-SUFFIX,springsunday.net
+ - DOMAIN-SUFFIX,m-team.io
+ - DOMAIN-SUFFIX,m-team.cc
+ - DOMAIN-SUFFIX,filelist.io
+ - DOMAIN-KEYWORD,filelist
+ - DOMAIN-KEYWORD,m-team
