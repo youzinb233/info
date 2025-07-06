@@ -1,11 +1,11 @@
 #TWN Stream 
 
- - DOMAIN-SUFFIX,myvideo.net.tw
- - DOMAIN-SUFFIX,friday.tw
- - DOMAIN-SUFFIX,hinet.net
- - DOMAIN-SUFFIX,eltaott.tv
- - DOMAIN-SUFFIX,kktv.me
- - DOMAIN-SUFFIX,linetv.tw
- - DOMAIN-SUFFIX,litv.tv
- - DOMAIN-SUFFIX,catchplay.com
+ DOMAIN-SUFFIX,myvideo.net.tw
+ DOMAIN-SUFFIX,friday.tw
+ DOMAIN-SUFFIX,hinet.net
+ DOMAIN-SUFFIX,eltaott.tv
+ DOMAIN-SUFFIX,kktv.me
+ DOMAIN-SUFFIX,linetv.tw
+ DOMAIN-SUFFIX,litv.tv
+ DOMAIN-SUFFIX,catchplay.com
  
