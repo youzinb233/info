@@ -23,6 +23,7 @@ payload:
  - DOMAIN-SUFFIX,ttvnw.net
  - DOMAIN-SUFFIX,twitch.tv
  - DOMAIN-SUFFIX,twitchcdn.net
+ - DOMAIN-SUFFIX,nexusmods.com
  - DOMAIN,v.odysseyplus.site
  - DOMAIN,us.odysseyplus.site
  - DOMAIN,stream-us.odysseyplus.site
