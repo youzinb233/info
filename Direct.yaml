@@ -1,4 +1,10 @@
 payload:
+# UU
+ - PROCESS-NAME,uu_launcher.exe
+ - PROCESS-NAME,uu_cloudsyn.exe
+ - PROCESS-NAME,uu_ball.exe
+ - PROCESS-NAME,uu.exe
+ - PROCESS-NAME,uu_neths_helper.exe
 # Plex
   - DOMAIN-SUFFIX,plex.tv
 # GitLab
