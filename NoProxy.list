@@ -11,8 +11,6 @@
  DOMAIN-SUFFIX,sfcat.link
  DOMAIN-SUFFIX,ident.me
  DOMAIN-SUFFIX,ipw.cn
- DOMAIN,us.odysseyplus.site
- DOMAIN,lfy.odysseyplus.site
  DOMAIN,hduprc.sbs
  PROCESS-NAME,ddns-go.exe
   
